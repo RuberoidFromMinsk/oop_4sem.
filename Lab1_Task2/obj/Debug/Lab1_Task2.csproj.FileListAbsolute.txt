@@ -1,0 +1,30 @@
+D:\Учёба\ООП\Lab1\Lab1_Task2\bin\Debug\Lab1_Task2.exe.config
+D:\Учёба\ООП\Lab1\Lab1_Task2\bin\Debug\Lab1_Task2.exe
+D:\Учёба\ООП\Lab1\Lab1_Task2\bin\Debug\Lab1_Task2.pdb
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.csprojResolveAssemblyReference.cache
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.Form1.resources
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.Properties.Resources.resources
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.GenerateResource.Cache
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.CoreCompileInputs.cache
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.exe
+D:\Учёба\ООП\Lab1\Lab1_Task2\obj\Debug\Lab1_Task2.pdb
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\bin\Debug\Lab1_Task2.exe.config
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\bin\Debug\Lab1_Task2.exe
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\bin\Debug\Lab1_Task2.pdb
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.csprojAssemblyReference.cache
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.Form1.resources
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.Properties.Resources.resources
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.GenerateResource.cache
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.CoreCompileInputs.cache
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.exe
+e:\Study\2 курс 2 сем\ООП\Lab1_Task2\obj\Debug\Lab1_Task2.pdb
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\bin\Debug\Lab1_Task2.exe.config
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\bin\Debug\Lab1_Task2.exe
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\bin\Debug\Lab1_Task2.pdb
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.csprojAssemblyReference.cache
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.Form1.resources
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.Properties.Resources.resources
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.GenerateResource.cache
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.exe
+C:\Users\Andrew\Downloads\OOP\Lab1_Task2\obj\Debug\Lab1_Task2.pdb
