@@ -1,0 +1,15 @@
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\bin\Debug\ado_lab.exe.config
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\bin\Debug\ado_lab.exe
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\bin\Debug\ado_lab.pdb
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\App.g.cs
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab_MarkupCompile.cache
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab_MarkupCompile.lref
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\MainWindow.baml
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.g.resources
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.Properties.Resources.resources
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.exe
+C:\Users\Andrew\source\repos\ado_lab\ado_lab\obj\Debug\ado_lab.pdb
