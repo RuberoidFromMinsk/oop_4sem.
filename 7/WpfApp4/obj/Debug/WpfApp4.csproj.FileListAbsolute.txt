@@ -1,0 +1,120 @@
+C:\Users\!\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\!\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\!\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+C:\Users\!\source\repos\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojResolveAssemblyReference.cache
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\4_СЕМ\OOP\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+D:\nikita\Das Studium\proga\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+E:\!СТПМС\Labs\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+E:\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+E:\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+E:\Laba7\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+E:\Laba7\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\UserControl1.g.cs
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\UserControl2.g.cs
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\UserControl1.baml
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\UserControl2.baml
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Andrew\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
